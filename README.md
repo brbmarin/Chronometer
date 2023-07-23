@@ -8,3 +8,5 @@ Petit projet chronometre en HTML, CSS et JavaScript. Ce chronomètre permet de m
 on peut débuter le chronomètre, l'arrêté, le reprendre, ou le remettre à zero.
 
 # Licence 
+
+Ce projet est sous licence [MIT](.LICENSE).
